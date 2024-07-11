@@ -1,1 +1,1 @@
-# PutNow - Backend
+# GraphQL - Backend
